@@ -1,0 +1,73 @@
+
+
+body {
+  background: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/farmer.png") ;
+}
+
+/* ///////////////////////// */
+/*           hero            */
+/* ///////////////////////// */
+
+.hero-section {
+  background: url("../images/cross.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+ .logo {
+width:400px;
+
+ }
+
+.hero-section .hero-section-text {
+  text-align: left;
+  color: #fefefe;
+  text-shadow: 1px 1px 2px #0a0a0a;
+}
+
+.hero-section-text {
+  margin-right: 10%;
+  margin-left: 50%;
+}
+
+/* ///////////////////////// */
+/*           body            */
+/* ///////////////////////// */
+
+.bodycard {
+ margin: 5px;
+ width: 32%;
+}
+.maincontent {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+/* ///////////////////////// */
+/*           Footer          */
+/* ///////////////////////// */
+
+
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  background-color: orange;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
