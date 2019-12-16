@@ -25,6 +25,7 @@ body {
 
  .logo {
 width:400px;
+padding:0px;
 
  }
 
@@ -37,6 +38,21 @@ width:400px;
 .hero-section-text {
   margin-right: 10%;
   margin-left: 50%;
+}
+
+.hero-section2 {
+  background: url("../images/cross.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 30vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 /* ///////////////////////// */
@@ -54,6 +70,31 @@ width:400px;
   flex-direction: row;
 }
 
+.bodycontent {
+background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding:30px;
+}
+
+.row2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe {
+  position: relative;
+  left: 0;
+  height:60px;
+  width: 100%;
+  padding: 5px;
+  background-color: lightslategray;
+  color: white;
+  text-align: right;
+}
+
+
 /* ///////////////////////// */
 /*           Footer          */
 /* ///////////////////////// */
@@ -65,6 +106,7 @@ width:400px;
   bottom: 0;
   width: 100%;
   padding: 20px;
+  margin-top: 20px;
   background-color: orange;
   color: white;
   font-size: 12px;
