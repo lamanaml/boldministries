@@ -26,8 +26,9 @@ body {
  .logo {
 width:400px;
 padding:0px;
-
  }
+  
+
 
 .hero-section .hero-section-text {
   text-align: left;
@@ -38,10 +39,10 @@ padding:0px;
 .hero-section-text {
   margin-right: 10%;
   margin-left: 50%;
-}
+}   
 
 .hero-section2 {
-  background: url("../images/cross.jpg") 50% no-repeat;
+  background: url("../images/bg2.jpg") 50% no-repeat;
   background-size: cover;
   height: 30vh;
   display: -webkit-flex;
@@ -63,6 +64,12 @@ padding:0px;
  margin: 5px;
  width: 32%;
 }
+
+.lessoncard {
+ margin: 20px;
+
+}
+
 .maincontent {
   background-color: white;
   display: flex;
