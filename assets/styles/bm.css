@@ -62,6 +62,14 @@ padding:0px;
 .red {
  color:red;
 }
+
+.em {
+ font-style: italic;
+}
+
+.bold {
+ font-weight: bold;
+}
 .bodycard {
  margin: 5px;
  width: 32%;
