@@ -59,7 +59,9 @@ padding:0px;
 /* ///////////////////////// */
 /*           body            */
 /* ///////////////////////// */
-
+.red {
+ color:red;
+}
 .bodycard {
  margin: 5px;
  width: 32%;
