@@ -63,8 +63,11 @@
                         </div>
                         
                         <div class="form-group">
-                            <label for="message" class="sr-only">Prayer Request</label>
-                            <input type="text" width="500px" class="form-control" id="message" name="message" placeholder="Add your prayer request.">
+
+                          <textarea name="message" class="form-control" id="message" cols="40" rows="5">Add your prayer request</textarea>
+
+                            <!-- <label for="message" class="sr-only">Prayer Request</label> -->
+                            <!-- <input type="text" width="500px" class="form-control" id="message" name="message" placeholder="Add your prayer request."> -->
                         </div>
                         <div>
                             <input class="btn" type="submit" name="submit" value="Send" />
