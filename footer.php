@@ -52,9 +52,9 @@
         <div class="col-6 col-md">
           <h5>More Info</h5>
           <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="about.html">About Us</a></li>
-            <li><a class="text-muted" href="prayer.html">Prayer Request</a></li>
-            <li><a class="text-muted" href="donate.html">Donate</a></li>
+            <li><a class="text-muted" href="about.php">About Us</a></li>
+            <li><a class="text-muted" href="prayer.php">Prayer Request</a></li>
+            <li><a class="text-muted" href="donate.php">Donate</a></li>
              <li><a class="text-muted" href="https://www.facebook.com/BOLDDisciples/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
           </ul>
         </div>

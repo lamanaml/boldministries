@@ -55,7 +55,7 @@
           <div class="container">
             <h1 class="display-4">Donate</h1>
             <p class="lead">Support our Ministry and all of the work that we do!</p>
-            <a href="donate.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
+            <a href="donate.php" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
           </div>
         </section>
       </div>
@@ -96,7 +96,7 @@
         <img src="assets/images/02.jpg" class="card-img-top" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Adult Ministry</h5>
-          <div class="card-text text-black-50"><a href="min_adult.html">Learn More</a></div>
+          <div class="card-text text-black-50"><a href="min_adult.php">Learn More</a></div>
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@
         <img src="assets/images/kids/child.jpg" class="card-img-top" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Children's Ministry</h5>
-        <div class="card-text text-black-50"><a href="min_children.html">Learn More</a></div>
+        <div class="card-text text-black-50"><a href="min_children.php">Learn More</a></div>
         </div>
       </div>
     </div>

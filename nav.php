@@ -9,26 +9,26 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home 
+              <a class="nav-link" href="index.php">Home 
                     <span class="sr-only">(current)</span>
                   </a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ministries</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="min_adult.html">Adult Ministry</a>
-                  <a class="dropdown-item" href="min_children.html">Children's Ministry</a>
+                  <a class="dropdown-item" href="min_adult.php">Adult Ministry</a>
+                  <a class="dropdown-item" href="min_children.php">Children's Ministry</a>
                 </div>
               </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="about.html">About Us</a>
+              <a class="nav-link" href="about.php">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link"  href="prayer.html">Prayer Request</a>
+              <a class="nav-link"  href="prayer.php">Prayer Request</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="donate.html">Donate</a>
+              <a class="nav-link" href="donate.php">Donate</a>
             </li>
           </ul>
         </div>
