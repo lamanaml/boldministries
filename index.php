@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/header1.png" alt="Second slide">
+      <img class="d-block w-100" src="assets/images/header2.png" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <div class="container">
