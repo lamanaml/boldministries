@@ -44,9 +44,9 @@ body{
   
 }
 
-/* .carousel .carousel-item {
+.carousel .carousel-item {
   height: 600px;
-} */
+}
 
 .carousel-item img {
     position: absolute;
