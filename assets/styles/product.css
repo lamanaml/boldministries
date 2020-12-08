@@ -126,9 +126,8 @@ footer {
   font-size: 14px;
   text-align: left;
 
-  
-
 }
 
-.fa {width:50px;
+.fa {
+  width:100px;
 }
