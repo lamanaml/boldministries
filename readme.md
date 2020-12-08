@@ -1,4 +1,43 @@
-this is going to be the readme
-with images
+# Freelance Web site for Bread of Life Discipleship Ministries
 
-bread of life
+
+## GitHub Deployment
+ ### Live Site
+ http://breadoflifediscipleship.com/
+
+ ### Repository
+
+
+
+## Introduction
+
+
+
+## Design Process / Code Samples
+
+
+
+## Features and Functionality
+
+
+
+## Usage
+
+
+ 
+## APIs used
+
+
+
+
+## Team Members
+
+
+## Supporting Documentation
+ ###  Concept Development Document
+
+
+ ### Presentation
+
+
+

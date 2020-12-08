@@ -1,0 +1,149 @@
+
+
+body {
+  background: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/farmer.png") ;
+}
+
+/* ///////////////////////// */
+/*           hero            */
+/* ///////////////////////// */
+
+.hero-section {
+  background: url("../images/cross.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+ .logo {
+width:400px;
+padding:0px;
+ }
+  
+
+
+.hero-section .hero-section-text {
+  text-align: left;
+  color: #fefefe;
+  text-shadow: 1px 1px 2px #0a0a0a;
+}
+
+.hero-section-text {
+  margin-right: 10%;
+  margin-left: 50%;
+}   
+
+.hero-section2 {
+  background: url("../images/bg2.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 30vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+/* ///////////////////////// */
+/*           body            */
+/* ///////////////////////// */
+.red {
+ color:red;
+}
+
+.em {
+ font-style: italic;
+}
+
+.bold {
+ font-weight: bold;
+}
+.bodycard {
+ margin: 5px;
+ width: 32%;
+}
+
+.lessoncard {
+ margin: 20px;
+
+}
+
+.maincontent {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 50px 200px 50px 200px;
+  font-size: 16px;
+
+}
+
+.maincontent2 {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 50px 200px 50px 200px;
+  font-size: 16px;
+  color:white;
+  
+
+}
+
+.bodycontent {
+background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding:30px;
+}
+
+.row2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe {
+  position: relative;
+  left: 0;
+  height:50px;
+  width: 100%;
+  padding: 5px;
+  background-color: brown;
+  color: white;
+  text-align: right;
+}
+
+hr.new {
+  border-top: 1px solid white;
+}
+/* ///////////////////////// */
+/*           Footer          */
+/* ///////////////////////// */
+
+
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
+
