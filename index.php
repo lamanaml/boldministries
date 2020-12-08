@@ -137,7 +137,7 @@
 <!--End mc_embed_signup-->
     </div>
   </section>
-
+</div>
     <footer >
      <?php include 'nav.php';?>
     <!-- Bootstrap core JavaScript
