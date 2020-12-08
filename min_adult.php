@@ -22,6 +22,9 @@
   <body>
  <!-- Navigation -->
 
+<?php include 'nav.php';?>
+
+
 
 <!-- Heading -->
     <div class="position-relative overflow-hidden  text-center bg-light " >
@@ -94,8 +97,8 @@
 
 </div>
 <!-- /.container -->
-    <footer >
-     
+  <!-- Footer -->
+     <?php include 'footer.php';?>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

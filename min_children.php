@@ -22,6 +22,9 @@
   <body>
  <!-- Navigation -->
 
+<?php include 'nav.php';?>
+
+
 
    
     <!-- Page Heading -->
@@ -118,7 +121,8 @@
   </div>
 <!-- /.container -->
   
-
+<!-- Footer -->
+     <?php include 'footer.php';?>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
