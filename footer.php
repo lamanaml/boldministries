@@ -56,7 +56,7 @@
             <li><a  href="about.php" class="text-warning">About Us</a></li>
             <li><a  href="prayer.php" class="text-warning">Prayer Request</a></li>
             <li><a  href="donate.php" class="text-warning">Donate</a></li>
-             <li><a href="https://www.facebook.com/BOLDDisciples/" class="text-warning"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+             <li><a href="https://www.facebook.com/BOLDDisciples/" class="text-warning"><i class="fa-lg fa-facebook" aria-hidden="true"></i></a></li>
           </ul>
         </div>
         
