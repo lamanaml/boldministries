@@ -30,7 +30,7 @@
             <div class="col-12 col-md">
           <h5>BOLD </h5>
            <small class="d-block mb-3 ">Bread of Life Discipleship Ministries</small>
-          <small class="d-block mb-3 ">&copy; 2017-2018</small>
+          <small class="d-block mb-3 ">&copy; 2020</small>
         </div>
         <div class="col-6 col-md">
           <h5>Contact Us</h5>
@@ -45,18 +45,18 @@
            <h5>Ministries</h5>
           <ul class="list-unstyled text-small">
             <li>Every Sunday at 11:00 AM</li>
-            <li><a href="min_adult.php">Adult Ministry</a></li>
-            <li><a  href="min_children.php">Children's Bible Study</a></li>
+            <li><a href="min_adult.php" class="text-warning">Adult Ministry</a></li>
+            <li><a href="min_children.php" class="text-warning">Children's Bible Study</a></li>
            
           </ul>
         </div>
         <div class="col-6 col-md">
           <h5>More Info</h5>
           <ul class="list-unstyled text-small">
-            <li><a  href="about.php">About Us</a></li>
-            <li><a  href="prayer.php">Prayer Request</a></li>
-            <li><a  href="donate.php">Donate</a></li>
-             <li><a href="https://www.facebook.com/BOLDDisciples/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a  href="about.php" class="text-warning">About Us</a></li>
+            <li><a  href="prayer.php" class="text-warning">Prayer Request</a></li>
+            <li><a  href="donate.php" class="text-warning">Donate</a></li>
+             <li><a href="https://www.facebook.com/BOLDDisciples/" class="text-warning"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
           </ul>
         </div>
         
