@@ -41,15 +41,16 @@
       <img class="d-block w-100" src="assets/images/header3.png"  alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
+          
           <div class="container">
-            <h1 class="display-4">Join Online</h1>
+            <h1 class="display-4">Bread of Life <br>Discipleship Ministries</h1>
             <p class="lead">Join us Every Sunday at 11AM </p>
           </div>
         </section>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/header2.png" alt="Second slide">
+      <img class="d-block w-100" src="assets/images/header1.png" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <div class="container">
@@ -61,7 +62,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/header1.png" alt="Third slide">
+      <img class="d-block w-100" src="assets/images/header2.png" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <div class="container">
