@@ -25,8 +25,8 @@
 
 
 
-    <footer >
- <div class="row">
+ <footer >
+  <div class="row">
             <div class="col-12 col-md">
           <h5>BOLD </h5>
            <small class="d-block mb-3 ">Bread of Life Discipleship Ministries</small>

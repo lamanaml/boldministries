@@ -42,7 +42,6 @@
     <div class="container">
       <h1 class="display-4">Weekly Lessons  </h1>
         <!-- <p class="lead">Watch previously recorded sessions</p> -->
-
     </div>
   </section>
 
@@ -65,8 +64,7 @@
             <h4 class="card-title">
               About our Children's Ministry
             </h4>
-            <p class="card-text">Deuteronomy 6:4-7 instructs parents to teach their children to love the Lord with all one’s heart, soul and strength. Jesus further tells us to love our neighbors as ourselves. To fully support parents and to teach our children to become followers of Jesus, BOLD Ministries Children’s Ministry (part of the Ministry of Formation) seeks to nurture and guide a child’s heart, head and hands.
-.</p>
+            <p class="card-text">Deuteronomy 6:4-7 instructs parents to teach their children to love the Lord with all one’s heart, soul and strength. Jesus further tells us to love our neighbors as ourselves. To fully support parents and to teach our children to become followers of Jesus, BOLD Ministries Children’s Ministry (part of the Ministry of Formation) seeks to nurture and guide a child’s heart, head and hands.</p>
           </div>
         </div>
       </div>

@@ -136,7 +136,7 @@ hr.new {
 
 .footer {
   /* position: fixed; */
-  left: 0;
+  /* left: 0;
   bottom: 0;
   width: 100%;
   padding: 20px;
@@ -144,14 +144,14 @@ hr.new {
   background-color: orange;
   color: white;
   font-size: 14px;
-  text-align: center;
+  text-align: center; */
 }
 
 
 
 .carousel-item {
-  height: 40vh;
-  
+  height: 100vh;
+  min-height: 350px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
