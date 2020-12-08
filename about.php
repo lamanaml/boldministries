@@ -122,7 +122,7 @@
          </section>
 
          <div class="row ">
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4" >
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4" >
                <div class="card h-100" >
                   <!-- <a href="#"><img class="card-img-top" src="http://www.alamancemow.org/uploads/8/2/7/8/82787108/1469274755.png" style="width:200px; " alt=""></a> -->
                   <div class="card-body">
@@ -133,7 +133,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                <div class="card h-100">
                   <!-- <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a> -->
                   <div class="card-body">
@@ -144,7 +144,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                <div class="card h-100">
                   <!-- <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a> -->
                   <div class="card-body">
@@ -155,7 +155,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                <div class="card h-100">
                   <!-- <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a> -->
                   <div class="card-body">
@@ -166,7 +166,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                <div class="card h-100">
                   <!-- <a href="#"><img class="card-img-top" src="https://secure.foodforthepoor.org/wrpr/images/logo.png" alt=""></a> -->
                   <div class="card-body">
@@ -177,7 +177,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                <div class="card h-100">
                   <!-- <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a> -->
                   <div class="card-body">
