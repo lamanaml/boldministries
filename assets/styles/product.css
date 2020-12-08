@@ -1,12 +1,12 @@
  
 body{
   font-size: 20px;
-  font-family: 'arial'
-  color: rgb(53, 48, 48);'
+  font-family: 'arial';
+  color: rgb(53, 48, 48);
 }
 .container {
   max-width: 960px;
- align:center;
+ text-align:center;
 
 }
 
@@ -37,7 +37,7 @@ body{
 
 .position-relative {
   position: absolute;
-  background-image: linear-gradient(0deg, rgba(132, 0, 255, 0.3), rgba(255, 217, 0, 0.911)),url('../images/02.jpg');
+  background-image: linear-gradient(0deg, rgba(58, 58, 45, 0.3), rgba(126, 108, 6, 0.911)),url('../images/04.jpg');
  
    background-repeat: no-repeat;
    background-size: cover;
