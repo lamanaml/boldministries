@@ -160,5 +160,5 @@ hr.new {
 }
 
 .nav {
-  text-transform: capitalize;
+  text-transform: capitalize!important;
 }
