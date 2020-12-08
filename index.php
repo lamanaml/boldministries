@@ -105,7 +105,7 @@
       <div class="card border-0 shadow">
         <img src="assets/images/kids/child.jpg" class="card-img-top" alt="...">
         <div class="card-body text-center">
-          <h5 class="card-title mb-0">Children's Ministry</h5>
+          <h5 class="card-title mb-0">Children's Bible Study</h5>
         <div class="card-text text-black-50"><a href="min_children.php">Learn More</a></div>
         </div>
       </div>
