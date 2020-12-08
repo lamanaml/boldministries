@@ -35,7 +35,7 @@
     </div>
 
 
-<!-- Donate -->
+<!-- Prayer -->
   <section class="py-5">
     <div class="container">
       <h1 class="display-4">“Let us therefore come boldly unto the throne of grace, that we may obtain mercy (compassion), and find grace to help in time of need. (Hebrews 4:16)”</h1>
@@ -50,8 +50,27 @@
       </div>
       <div class="col-md-8">
         <p  class="lead">If you are in need of prayer, please send us your request so that we can pray for you.</p>
-        <p  class="lead">Call us: 336-365-5388</p>
-        <p  class="lead">Email us: boldmtry@gmail.com </p>
+        <p  class="lead">Call us: 336-365-5388 or </p>
+        <div class="col-md-6 col-lg-4 contact-page-form-wrapper wow fadeInRight">
+                    <form method="POST" name="contactform" action="contact-form-handler.php"> 
+                        <div class="form-group">
+                            <label for="name" class="sr-only">Name</label>
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="email" class="sr-only">Email</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message" class="sr-only">Prayer Request</label>
+                            <input type="text" class="form-control" id="message" name="message" placeholder="Message">
+                        </div>
+                        <div>
+                            <input class="btn" type="submit" name="submit" value="Send" />
+                            
+                        </div>
+                    </form>    
       </div>
     </div>
   </div>
