@@ -115,7 +115,7 @@
 
 
 </div>
-    <footer >
+<!-- Footer -->
      <?php include 'footer.php';?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
