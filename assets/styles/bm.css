@@ -158,3 +158,7 @@ hr.new {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.nav-link {
+  text-transform: capitalize;
+}
