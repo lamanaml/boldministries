@@ -62,7 +62,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/leaderschristmas2.JPG" style="vertical-align: bottom;" alt="Third slide">
+      <img class="d-block w-100" src="assets/images/leaderschristmas2.JPG" style="vertical-align: top;" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <div class="container">
