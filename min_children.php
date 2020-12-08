@@ -38,14 +38,14 @@
 <!-- Body -->
 <div class="container">
     
-  <!-- <section class="py-5">
+  <section class="py-5">
     <div class="container">
       <h1 class="display-4">Weekly Lessons  </h1>
-       
+        <!-- <p class="lead">Watch previously recorded sessions</p> -->
 
     </div>
-  </section> -->
-<div class="container">
+  </section>
+
     <div class="row">
       <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
