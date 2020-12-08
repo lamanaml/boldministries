@@ -38,7 +38,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/header.png" alt="First slide">
+      <img class="d-block w-100" src="assets/images/header.png" style="width:1000px" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <!-- <div class="container">
