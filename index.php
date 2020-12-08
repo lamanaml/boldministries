@@ -42,8 +42,8 @@
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
           <div class="container">
-            <h1 class="display-4">Join Online</h1>
-            <p class="lead">Join us Every Sunday at 11AM </p>
+            <h1 class="display-4">Bread of Life <br>Discipleship Ministries</h1>
+            <p class="lead">Join us Online Every Sunday at 11AM </p>
           </div>
         </section>
       </div>
