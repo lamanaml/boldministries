@@ -73,7 +73,7 @@ echo nl2br($errors);
 ?>
 
 <br>
-  <img src="assets/images/logo.jpg">
+  <img src="assets/images/logo.jpg" style="width:400px">
   <br><br>
 
 <a href="index.html">Back to the homepage </a>

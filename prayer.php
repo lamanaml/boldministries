@@ -50,34 +50,29 @@
       </div>
       <div class="col-md-8">
         <p  class="lead">Please send us your request so that we can pray with you.</p>
-                <div class="col-md-6 col-lg-4 contact-page-form-wrapper wow fadeInRight">
-                    <form method="POST" name="contactform" action="contact-form-handler.php"> 
-                        <div class="form-group">
-                            <label for="name" class="sr-only">Name</label>
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Your Name (optional)">
-                        </div>
-                        <div class="form-group">
-                            <label for="email" class="sr-only">Email</label>
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Your Email (optional)">
-                        </div>
-                        
-                        <div class="form-group">
-
-                          <textarea name="message" class="form-control" id="message" cols="40" rows="5">Add your prayer request</textarea>
-
-                            <!-- <label for="message" class="sr-only">Prayer Request</label> -->
-                            <!-- <input type="text" width="500px" class="form-control" id="message" name="message" placeholder="Add your prayer request."> -->
-                        </div>
-                        <div>
-                            <input class="btn" type="submit" name="submit" value="Send" />
-                            
-                        </div>
-                    </form>    
+        <div class="col-md-6 col-lg-4 contact-page-form-wrapper wow fadeInRight">
+          <form method="POST" name="contactform" action="contact-form-handler.php"> 
+            <div class="form-group">
+              <label for="name" class="sr-only">Name</label>
+              <input type="text" class="form-control" id="name" name="name" placeholder="Your Name (optional)">
+            </div>
+            <div class="form-group">
+              <label for="email" class="sr-only">Email</label>
+              <input type="email" class="form-control" id="email" name="email" placeholder="Your Email (optional)">
+            </div>
+            
+            <div class="form-group">
+              <textarea name="message" class="form-control" id="message" cols="40" rows="5">Add your prayer request</textarea>
+            </div>
+            <div>
+              <input class="btn" type="submit" name="submit" value="Send" />
+            </div>
+          </form>    
+        </div>
       </div>
     </div>
-  </div>
     <!-- /.row -->
-
+  </div>
 <!-- Footer -->
 
 
