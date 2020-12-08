@@ -29,7 +29,8 @@
  <div class="row">
             <div class="col-12 col-md">
           <h5>BOLD </h5>
-          <small class="d-block mb-3 text-muted">&copy; 2017-2018</small>
+           <small class="d-block mb-3 ">Bread of Life Discipleship Ministries</small>
+          <small class="d-block mb-3 ">&copy; 2017-2018</small>
         </div>
         <div class="col-6 col-md">
           <h5>Contact Us</h5>
@@ -52,21 +53,13 @@
         <div class="col-6 col-md">
           <h5>More Info</h5>
           <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="about.php">About Us</a></li>
-            <li><a class="text-muted" href="prayer.php">Prayer Request</a></li>
-            <li><a class="text-muted" href="donate.php">Donate</a></li>
-             <li><a class="text-muted" href="https://www.facebook.com/BOLDDisciples/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a  href="about.php">About Us</a></li>
+            <li><a  href="prayer.php">Prayer Request</a></li>
+            <li><a  href="donate.php">Donate</a></li>
+             <li><a href="https://www.facebook.com/BOLDDisciples/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
           </ul>
         </div>
-        <!-- <div class="col-6 col-md">
-          <h5>About</h5>
-          <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Team</a></li>
-            <li><a class="text-muted" href="#">Locations</a></li>
-            <li><a class="text-muted" href="#">Privacy</a></li>
-            <li><a class="text-muted" href="#">Terms</a></li>
-          </ul>
-        </div> -->
+        
       </div>
     </footer>
 
