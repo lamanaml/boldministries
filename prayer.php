@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Prayer - Bread of Life Discipleship Ministries</title>
+    <title>Prayer Request- Bread of Life Discipleship Ministries</title>
 <!-- 
     <link rel="canonical" href="https://breadoflifediscipleshipministries.com -->
 
