@@ -43,7 +43,7 @@
         <section class="py-5">
           <div class="container">
             <h1 class="display-4">Bread of Life <br>Discipleship Ministries</h1>
-            <p class="lead">Join us Online Every Sunday at 11AM </p>
+            <p class="lead">Join us Every Sunday at 11AM... In person or on</p>
           </div>
         </section>
       </div>

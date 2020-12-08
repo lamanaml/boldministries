@@ -46,7 +46,7 @@
   <div class="p-3" >
     <div class="row p-3" >
       <div class="col-md-4">
-        <img class="img-fluid" src="http://breadoflifediscipleship.com/wp-content/uploads/2020/08/praying-hands-1179301-1280x960-1-1024x768.jpg" alt="">
+        <img class="img-fluid" src="" alt="">
       </div>
       <div class="col-md-8">
         <p  class="lead">Please send us your request so that we can pray with you.</p>
