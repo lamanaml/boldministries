@@ -24,8 +24,7 @@
 
   <!-- Navigation -->
 
-<?php include(nav.php)
-?>
+<?php include 'nav.php';?>
 
 
 
@@ -143,7 +142,7 @@
   </section>
 
     <footer >
-     
+     <?php include 'nav.php';?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -158,7 +157,7 @@
       Holder.addTheme('thumb', {
         bg: '#55595c',
         fg: '#eceeef',
-        text: 'Thumbnail'
+        text: 'Thumbnail';
       });
     </script>
   </body>
