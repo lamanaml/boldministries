@@ -37,7 +37,7 @@ body{
 
 .position-relative {
   position: absolute;
-  background-image: linear-gradient(0deg, rgba(58, 58, 45, 0.3), rgba(126, 108, 6, 0.911)),url('../images/04.jpg');
+  background-image: linear-gradient(0deg, rgba(167, 167, 106, 0.315), rgba(126, 108, 6, 0.911)),url('../images/06.jpg');
  
    background-repeat: no-repeat;
    background-size: cover;
