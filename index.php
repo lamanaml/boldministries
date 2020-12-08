@@ -38,13 +38,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/04.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/images/header.png" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <section class="py-5">
-          <div class="container">
+          <!-- <div class="container">
             <h1 class="display-4">Join Online</h1>
             <p class="lead">Join us Every Sunday at 11AM </p>
-          </div>
+          </div> -->
         </section>
       </div>
     </div>
