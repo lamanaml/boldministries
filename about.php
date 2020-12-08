@@ -60,15 +60,11 @@
       <div class="p-3" >
          <div class="row " >
             <div class="col-md-12">
-               <p  class="lead"><img class="img-fluid" style="float: left; width:400px; padding-right: 30px;" src="assets/images/leaders.JPG" alt="">Barney and Brenda have been married for thirty years. They have 4 children and 10 grandchildren, 1 great grandchild and 2 god children.</p>
+               <p  class="lead"><img class="img-fluid" style="float: left; width:400px; padding-right: 30px;" src="assets/images/leaders.JPG" alt=""></p>
                <p  class="lead">Barney and Brenda have served in ministry for over 30 years in different capacities and as ordained ministers for 10 years.</p>
-                  <ul class="list-group list-group-flush">
-                     <li class="list-group-item">Taught marriage/relationship ministry for 9 nine years</li>
-                     <li class="list-group-item">Preached and taught the Word of God through Sunday school, morning worship service and Wednesday night Bible Study</li>
-                     <li class="list-group-item">Lead women’s ministry/men’s ministry</li>
-                     <li class="list-group-item">Worked with Youth and Children’s ministries</li>
-                  </ul>
-               <p  class="lead">This ministry is made up of a Board to provide leadership and direction. The board consists of the Pastor, Executive Secretary and Treasurer. Each of these are dedicated and committed members of the body of Christ and are the ministry founders.</p>
+                <p  class="lead">Combined, they have  taught marriage/relationship ministry for 9 nine years; preached and taught the Word of God through Sunday school, morning worship service and Wednesday night Bible Study; Lead women’s ministry/men’s ministry;  and worked with Youth and Children’s ministries
+                <p  class="lead">They have been married for thirty years. They have 4 children and 10 grandchildren, 1 great grandchild and 2 god children.
+               <p  class="lead">BOLD Ministries is made up of a Board to provide leadership and direction. The board consists of the Pastor, Executive Secretary and Treasurer. Each of these are dedicated and committed members of the body of Christ and are the ministry founders.</p>
             </div>
          </div>
       <!-- /.row -->
