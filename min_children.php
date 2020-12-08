@@ -49,7 +49,7 @@
     <div class="row">
       <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="assets/images/kids/kids1.jpg" alt=""></a>
+          <a href="#"><img class="card-img-top" src="assets/images/kids/kids6.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               Children's Sunday School
@@ -60,7 +60,7 @@
       </div>
       <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="assets/images/kids/kids6.jpg" alt=""></a>
+          <a href="#"><img class="card-img-top" src="assets/images/kids/kids1.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               About our Children's Ministry

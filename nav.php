@@ -18,8 +18,8 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ministries</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="min_adult.php">Adult Ministry</a>
-                  <a class="dropdown-item" href="min_children.php">Children's Ministry</a>
+                  <a class="dropdown-item" href="min_adult.php">Adult Ministryb</a>
+                  <a class="dropdown-item" href="min_children.php">Children's Bible Study</a>
                 </div>
               </li>
 
