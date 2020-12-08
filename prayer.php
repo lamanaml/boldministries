@@ -49,7 +49,7 @@
         <img class="img-fluid" src="http://breadoflifediscipleship.com/wp-content/uploads/2020/08/praying-hands-1179301-1280x960-1-1024x768.jpg" alt="">
       </div>
       <div class="col-md-8">
-        <p  class="lead">If you are in need of prayer, please send us your request so that we can pray for you.</p>
+        <p  class="lead">Please send us your request so that we can pray for you.</p>
                 <div class="col-md-6 col-lg-4 contact-page-form-wrapper wow fadeInRight">
                     <form method="POST" name="contactform" action="contact-form-handler.php"> 
                         <div class="form-group">
