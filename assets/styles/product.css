@@ -9,7 +9,9 @@ body{
  
 
 }
-
+.nav {
+  text-transform: capitalize!important;
+}
 .list-group-item {
   border: 0px;
 }
