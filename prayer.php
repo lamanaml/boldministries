@@ -55,16 +55,16 @@
                     <form method="POST" name="contactform" action="contact-form-handler.php"> 
                         <div class="form-group">
                             <label for="name" class="sr-only">Name</label>
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
                         </div>
                         <div class="form-group">
                             <label for="email" class="sr-only">Email</label>
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
                         </div>
                         
                         <div class="form-group">
                             <label for="message" class="sr-only">Prayer Request</label>
-                            <input type="text" class="form-control" id="message" name="message" placeholder="Message">
+                            <input type="text" width="500px" class="form-control" id="message" name="message" placeholder="Add your prayer request.">
                         </div>
                         <div>
                             <input class="btn" type="submit" name="submit" value="Send" />
