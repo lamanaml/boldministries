@@ -40,26 +40,26 @@
     <div class="carousel-item active">
       <img class="d-block w-100" src="assets/images/04.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-  <section class="py-5">
-    <div class="container">
-      <h1 class="display-4">Join Online</h1>
-      <p class="lead">Join us Every Sunday at 11AM </p>
-    </div>
-  </section>
-  </div>
+        <section class="py-5">
+          <div class="container">
+            <h1 class="display-4">Join Online</h1>
+            <p class="lead">Join us Every Sunday at 11AM </p>
+          </div>
+        </section>
+      </div>
     </div>
     <div class="carousel-item">
-    <img class="d-block w-100" src="assets/images/05.jpg" alt="Second slide">
-    <div class="carousel-caption d-none d-md-block">
-    <section class="py-5">
-      <div class="container">
-        <h1 class="display-4">Donate</h1>
-        <p class="lead">Support our Ministry and all of the work that we do!</p>
-        <a href="donate.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
+      <img class="d-block w-100" src="assets/images/05.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <section class="py-5">
+          <div class="container">
+            <h1 class="display-4">Donate</h1>
+            <p class="lead">Support our Ministry and all of the work that we do!</p>
+            <a href="donate.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
+          </div>
+        </section>
       </div>
-    </section>
     </div>
-  </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="assets/images/03.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
@@ -110,7 +110,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 
 
   <section class="py-5">
