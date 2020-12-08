@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Adult Ministries - Bread of Life Discipleship Ministries</title>
+    <title>Children's Bible Study - Bread of Life Discipleship Ministries</title>
 <!-- 
     <link rel="canonical" href="https://breadoflifediscipleshipministries.com -->
 
@@ -30,7 +30,7 @@
     <!-- Page Heading -->
     <div class="position-relative overflow-hidden  text-center bg-light " >
       <div class="col-md-5 p-lg-5 mx-auto my-5" >
-        <h1 class="display-4 white-text font-weight-normal white-text">Children's Ministry</h1>
+        <h1 class="display-4 white-text font-weight-normal white-text">Children's Bible Study</h1>
             </div>
     </div>
 
@@ -47,72 +47,39 @@
   </section>
 
     <div class="row">
-      <div class="col-lg-4 col-sm-6 mb-4">
+      <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
           <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project One</a>
+              Children's Sunday School
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+            <p class="card-text">We offer Sunday School for children on Sunday mornings at 11:00 a.m. This class offers children time to connect with friends and grow their faith through Bible stories, discussions and bible based crafts and activities</p>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-sm-6 mb-4">
+      <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
           <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Two</a>
+              About our Children's Ministry
             </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            <p class="card-text">Deuteronomy 6:4-7 instructs parents to teach their children to love the Lord with all one’s heart, soul and strength. Jesus further tells us to love our neighbors as ourselves. To fully support parents and to teach our children to become followers of Jesus, BOLD Ministries Children’s Ministry (part of the Ministry of Formation) seeks to nurture and guide a child’s heart, head and hands.
+.</p>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Project Three</a>
-            </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Project Four</a>
-            </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Project Five</a>
-            </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Project Six</a>
-            </h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
-          </div>
-        </div>
-      </div>
+
+ 
+
+
+
+
+
+
+
+
     </div>
     <!-- /.row -->
 

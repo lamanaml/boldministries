@@ -46,7 +46,7 @@
 
   </div>
 </section>
-<div class="container">
+<!-- <div class="container">
   <section class="py-5">
     <div class="container">
       <h1 class="display-4">Watch  </h1>
@@ -95,7 +95,7 @@
 
   
 
-</div>
+</div> -->
 <!-- /.container -->
   <!-- Footer -->
      <?php include 'footer.php';?>
