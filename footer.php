@@ -1,4 +1,4 @@
-  <section class="py-5" style="background-color:gray;">
+  <section class="py-5" style="background-color:rgb(255,189,89); margin:0px;">
     <div class="container">
       <h1 class="display-4">Stay in Touch</h1>
       <p class="lead">Subscribe to our weekly newsletter for updates and words of inspiration!</p>
