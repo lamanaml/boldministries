@@ -48,31 +48,28 @@
   </section>
   </div>
     </div>
-   <div class="carousel-item">
-  <img class="d-block w-100" src="assets/images/05.jpg" alt="Second slide">
-  <div class="carousel-caption d-none d-md-block">
-  <section class="py-5">
-    <div class="container">
-      <h1 class="display-4">Donate</h1>
-      <p class="lead">Support our Ministry and all of the work that we do!</p>
-      <a href="donate.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
+    <div class="carousel-item">
+    <img class="d-block w-100" src="assets/images/05.jpg" alt="Second slide">
+    <div class="carousel-caption d-none d-md-block">
+    <section class="py-5">
+      <div class="container">
+        <h1 class="display-4">Donate</h1>
+        <p class="lead">Support our Ministry and all of the work that we do!</p>
+        <a href="donate.html" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Learn More</a>
+      </div>
+    </section>
     </div>
-  </section>
   </div>
-</div>
     <div class="carousel-item">
       <img class="d-block w-100" src="assets/images/03.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-       <section class="py-5">
-    <div class="container">
-      <h1 class="display-4">Happy Holidays!</h1>
-      <p class="lead">Bread of Life Discipleship Ministries wishes you and your family a happy and healthy Holiday Season</p>
-     
-    </div>
-  </section>
-    <h5</h5>
-    <p></p>
-  </div>
+        <section class="py-5">
+          <div class="container">
+            <h1 class="display-4">Happy Holidays!</h1>
+            <p class="lead">Bread of Life Discipleship Ministries wishes you and your family a happy and healthy Holiday Season</p>
+          </div>
+        </section>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -147,18 +144,14 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
     <script src="../../assets/js/vendor/popper.min.js"></script>
     <script src="../../assets/js/vendor/holder.min.js"></script>
     <script>
-      Holder.addTheme('thumb', {
-        bg: '#55595c',
-        fg: '#eceeef',
-        text: 'Thumbnail';
-      });
+      Holder.addTheme('thumb', {     bg: '#55595c',    fg: '#eceeef',      text: 'Thumbnail'     });
     </script>
   </body>
 </html>
