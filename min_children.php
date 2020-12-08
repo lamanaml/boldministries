@@ -45,7 +45,7 @@
 
     </div>
   </section> -->
-
+<div class="container">
     <div class="row">
       <div class="col-lg-6 col-sm-6 mb-4">
         <div class="card h-100">
