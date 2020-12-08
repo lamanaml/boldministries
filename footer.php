@@ -1,7 +1,7 @@
   <section class="py-5" style="background-color:rgb(255,189,89); margin:0px;">
     <div class="container">
       <h1 class="display-4">Stay in Touch</h1>
-      <p class="lead">Subscribe to our weekly newsletter for updates and words of inspiration!</p>
+      <p class="lead">Subscribe to our newsletter for updates and words of inspiration!</p>
       <!-- Begin Mailchimp Signup Form -->
          <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
       <style type="text/css">
@@ -34,18 +34,18 @@
         <div class="col-6 col-md">
           <h5>Contact Us</h5>
           <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Arbor Drive</a></li>
-            <li><a class="text-muted" href="#">Burlington, NC</a></li>
-            <li><a class="text-muted" href="#">P: 336-365-5388 </a></li>
-            <li><a class="text-muted" href="#">E: boldmtry@gmail.com</a></li>
+            <li>Arbor Drive</li>
+            <li>Burlington, NC</li>
+            <li>336-365-5388 </li>
+            <li>boldmtry@gmail.com</li>
           </ul>
         </div>
         <div class="col-6 col-md">
            <h5>Ministries</h5>
           <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="#">Every Sunday at 11:00 AM</a></li>
-            <li><a class="text-muted" href="#">Adult Ministry</a></li>
-            <li><a class="text-muted" href="#">Children's Ministry</a></li>
+            <li>Every Sunday at 11:00 AM</li>
+            <li><a href="min_adult.php">Adult Ministry</a></li>
+            <li><a  href="min_children.php">Children's Bible Study</a></li>
            
           </ul>
         </div>
