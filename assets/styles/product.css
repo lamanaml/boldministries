@@ -4,8 +4,8 @@
 body{
   font-size: 20px;
  font-family: 'Roboto', sans-serif;
-
-  color: rgb(53, 48, 48);
+ letter-spacing: 0.1em;
+  color: rgb(44, 42, 42);
 }
 .container {
   max-width: 960px;
