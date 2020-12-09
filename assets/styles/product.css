@@ -1,12 +1,14 @@
- 
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
 body{
   font-size: 20px;
-  font-family: 'arial';
+ font-family: 'Roboto', sans-serif;
+
   color: rgb(53, 48, 48);
 }
 .container {
   max-width: 960px;
- 
 
 }
 .nav {
