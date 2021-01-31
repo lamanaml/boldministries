@@ -56,23 +56,23 @@
 
 
   <div class="row">
-    <div class="col-lg-4 col-sm-6 mb-4">
+    <div class="col-lg-6 col-sm-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="humility.jpg" alt="Humiliy"></a>
         <div class="card-body">
           <h4 class="card-title">
             Humility
-            <figure>
-    <figcaption>January 17, 2021 - Listen to Pastor Lawrence talk about Humility</figcaption>
+            
+          </h4>
+          <p class="card-text"><figure>
+    <figcaption> Listen to Pastor Lawrence talk about Humility</figcaption>
     <audio
         controls
         src="assets/media/20200117HUMILITY.mp4">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
-          </h4>
-          <p class="card-text"></p>
+</figure></p>
         </div>
       </div>
     </div>
