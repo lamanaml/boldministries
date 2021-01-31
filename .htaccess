@@ -1,2 +1,3 @@
-DirectoryIndex index.php
+DirectoryIndex index.php index.html
 AddType application/x-httpd-php5 php
+AddType application/x-httpd-php .php
