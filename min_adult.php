@@ -58,14 +58,14 @@
   <div class="row">
     <div class="col-lg-6 col-sm-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="humility.jpg" alt="Humiliy"></a>
+        <a href="#"><img class="card-img-top" src="assets/media/humility.jpg" alt="Humiliy"></a>
         <div class="card-body">
           <h4 class="card-title">
             Humility
             
           </h4>
           <p class="card-text"><figure>
-    <figcaption> Listen to Pastor Lawrence talk about Humility</figcaption>
+    <figcaption> By Pastor Lawrence </figcaption>
     <audio
         controls
         src="assets/media/20200117HUMILITY.mp4">
