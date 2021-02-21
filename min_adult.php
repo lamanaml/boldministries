@@ -40,9 +40,11 @@
 <section class="py-5">
   <div class="container">
     <h1 class="display-4">Join Online </h1>
-      <p class="lead"><a href="https://us04web.zoom.us/j/76248028299?pwd=SjZwNU1LWnZzZW5Qc0t1SmNFZ0w1dz09">Join our Zoom call</a> every Sunday at 11:00 AM</p>
-      <p class="lead">Meeting ID: 762 4802 8299</p>
-      <p class="lead">Passcode: E772W3</p>
+      <p class="lead"><a href="https://us02web.zoom.us/j/2307211839?pwd=eTg1cVBVS0ZmTVBaQnNGRDFGUXhKUT09">Join our online BOLD Ministries' Discipleship Service</a> every Sunday at 11:00 AM</p>
+      <p class="lead">Meeting ID: 230 721 1839</p>
+      <p class="lead">Passcode: 2i6JCm</p>
+
+
 
   </div>
 </section>
@@ -55,13 +57,21 @@
   </section>
 
 
+
+
+
+
+
+
+
   <div class="row">
-    <div class="col-lg-6 col-sm-6 mb-4">
+
+   <div class="col-lg-6 col-sm-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="assets/media/humility.jpg" alt="Humiliy"></a>
+       <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
         <div class="card-body">
           <h4 class="card-title">
-            Humility
+            Humility 1
             
           </h4>
           <p class="card-text"><figure>
@@ -72,7 +82,48 @@
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure></p>
+</figure></p><p class="small"> 1-31-2021</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-sm-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility 1">
+        <div class="card-body">
+          <h4 class="card-title">
+            Humility 2
+            
+          </h4>
+          <p class="card-text"><figure>
+    <figcaption> By Pastor Lawrence </figcaption>
+    <audio
+        controls
+        src="assets/media/20210131-humility2.mp4">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure></p><p class="small"> 1-21-2021</p>
+        </div>
+      </div>
+    </div>
+
+     <div class="col-lg-6 col-sm-6 mb-4">
+      <div class="card h-100">
+       <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
+        <div class="card-body">
+          <h4 class="card-title">
+            Humility 2
+            
+          </h4>
+          <p class="card-text"><figure>
+    <figcaption> By Pastor Lawrence </figcaption>
+    <audio
+        controls
+        src="assets/media/20210117-humility.mp4">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure></p><p class="small"> 1-17-2021</p>
         </div>
       </div>
     </div>
