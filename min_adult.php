@@ -66,7 +66,7 @@
 
   <div class="row">
 
-   <div class="col-lg-6 col-sm-6 mb-4">
+   <div class="col-lg-12 col-sm-12 mb-4">
       <div class="card h-100">
        <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
         <div class="card-body">
@@ -76,19 +76,20 @@
           </h4>
           <p class="card-text"><figure>
     <figcaption> By Pastor Lawrence </figcaption>
-    <audio
+    <!-- <audio
         controls
         src="https://youtu.be/khadg6ybnyw">
             Your browser does not support the
             <code>audio</code> element.
-    </audio>
+    </audio> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/khadg6ybnyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure></p><p class="small"> 1-31-2021</p>
         </div>
       </div>
     </div>
   
 
-     <div class="col-lg-6 col-sm-6 mb-4">
+     <div class="col-lg-12 col-sm-12 mb-4">
       <div class="card h-100">
        <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
         <div class="card-body">
