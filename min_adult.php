@@ -96,14 +96,16 @@
             Humility 2
             
           </h4>
-          <p class="card-text"><figure>
+          <p class="card-text">
+          <figure>
     <figcaption> By Pastor Lawrence </figcaption>
-    <audio
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Yx9Up7efiN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <!-- <audio
         controls
         src="assets/media/20210117-humility.mp4">
             Your browser does not support the
             <code>audio</code> element.
-    </audio>
+    </audio> -->
 </figure></p><p class="small"> 1-17-2021</p>
         </div>
       </div>
