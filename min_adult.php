@@ -86,26 +86,7 @@
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-sm-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility 1">
-        <div class="card-body">
-          <h4 class="card-title">
-            Humility 2
-            
-          </h4>
-          <p class="card-text"><figure>
-    <figcaption> By Pastor Lawrence </figcaption>
-    <audio
-        controls
-        src="https://youtu.be/Yx9Up7efiN4">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure></p><p class="small"> 1-21-2021</p>
-        </div>
-      </div>
-    </div>
+  
 
      <div class="col-lg-6 col-sm-6 mb-4">
       <div class="card h-100">
