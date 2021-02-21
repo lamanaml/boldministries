@@ -78,7 +78,7 @@
     <figcaption> By Pastor Lawrence </figcaption>
     <audio
         controls
-        src="assets/media/20200117HUMILITY.mp4">
+        src="https://youtu.be/khadg6ybnyw">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -98,7 +98,7 @@
     <figcaption> By Pastor Lawrence </figcaption>
     <audio
         controls
-        src="assets/media/20210131-humility2.mp4">
+        src="https://youtu.be/Yx9Up7efiN4">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
