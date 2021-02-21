@@ -68,7 +68,7 @@
 
    <div class="col-lg-12 col-sm-12 mb-4">
       <div class="card h-100">
-       <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
+       <!-- <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2"> -->
         <div class="card-body">
           <h4 class="card-title">
             Humility 1
@@ -91,7 +91,7 @@
 
      <div class="col-lg-12 col-sm-12 mb-4">
       <div class="card h-100">
-       <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2">
+       <!-- <img class="card-img-top" src="assets/media/humility.jpg" alt="Humility2"> -->
         <div class="card-body">
           <h4 class="card-title">
             Humility 2
